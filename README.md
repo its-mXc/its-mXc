@@ -1,4 +1,9 @@
-### Hi there 👋
+## You _found_ me!✨
+
+- 💼 Full Stack Developer(ROR|MERN)
+- 🔗 http://its-mXc.github.io
+- 📫 How to reach me: udaynayakgkv@gmail.com
+- 🌱 I’m currently learning Docker and GraphQL
 
 <!--
 **its-mXc/its-mXc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

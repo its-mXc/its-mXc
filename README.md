@@ -3,7 +3,7 @@
 - 💼 Full Stack Developer(ROR|MERN)
 - 🔗 http://its-mXc.github.io
 - 📫 How to reach me: udaynayakgkv@gmail.com
-- 🌱 I’m currently learning Docker and GraphQL
+- 🌱 I’m currently working at @Skuad
 
 <!--
 **its-mXc/its-mXc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

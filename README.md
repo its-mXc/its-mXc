@@ -1,7 +1,7 @@
 ## You _found_ me!✨
 
 - 💼 Full Stack Developer(ROR|MERN)
-- 🔗 http://its-mXc.github.io
+- 🔗 [https://www.udaynayak.com](https://www.udaynayak.com/)
 - 📫 How to reach me: udaynayakgkv@gmail.com
 - 🌱 I’m currently working at @Topica
 
